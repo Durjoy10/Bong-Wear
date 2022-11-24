@@ -29,3 +29,29 @@ body{
     margin-left: 33%;
     margin-right: 33%;
 }
+
+.login{
+    margin-top: 5%;
+    margin-left: 45%;
+    /* margin-right: 33%; */
+    color: tomato;
+    font-family: 'Major Mono Display', monospace;
+    font-weight: bold;
+}
+
+.login-form{
+    color: white;
+    margin-top: 1%;
+    margin-left: 36%;
+    margin-right: 33%;
+    display: block;
+
+}
+.sign-up{
+    color: tomato;
+    margin-right: 32%;
+}
+
+.footer{
+    margin-top: 20%;
+}
